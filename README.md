@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+*** For API Documentation ***
+
+https://documenter.getpostman.com/view/9746074/SzKVQHon
